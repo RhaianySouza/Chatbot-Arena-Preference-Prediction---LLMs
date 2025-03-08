@@ -26,4 +26,4 @@ O objetivo principal deste projeto é desenvolver um modelo de machine learning 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/Chatbot-Arena-Preference-Prediction.git
+   git clone https://github.com/RhaianySouza/Chatbot-Arena-Preference-Prediction-LLMs/edit/main/README.md
